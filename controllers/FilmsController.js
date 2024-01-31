@@ -1,5 +1,4 @@
 const swapiService = require("../api/swapiService")
-const Film = require("../model/Film")
 
 class FilmsController {
     async get(req, res) {
