@@ -1,0 +1,21 @@
+body {
+    color: #ffffff;
+    /* Cor do texto */
+}
+
+h1,
+h2 {
+    color: #000000;
+}
+
+.btn-star-wars {
+    background-color: #ffe81f;
+    color: #000000;
+    border: 1px solid #ffe81f;
+}
+
+.btn-star-wars:hover {
+    background-color: #000000;
+    color: #ffe81f;
+    border: 1px solid #ffe81f;
+}
